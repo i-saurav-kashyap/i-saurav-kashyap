@@ -89,6 +89,9 @@ Building and sharing work in public.
 
 <img src="https://ghchart.rshah.org/a78bfa/i-saurav-kashyap" width="92%" alt="Contribution heatmap" />
 
+<!-- Contribution snake — regenerated every 12h by .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/i-saurav-kashyap/i-saurav-kashyap/output/snake.gif" width="92%" alt="Snake eating my contribution graph" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-saurav-kashyap&theme=github_dark" width="46%" alt="Most-committed languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-saurav-kashyap&theme=github_dark" width="46%" alt="Profile stats" />
 
