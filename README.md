@@ -141,15 +141,7 @@ Building and sharing work in public.
 
 ## Competitive Programming
 
-<sub>GitHub engineering signal · i-saurav-kashyap</sub>
-
-| signal | | |
-|:--|:--|--:|
-| **Activity** | <img src="https://img.shields.io/badge/%E2%96%88-58a6ff?style=flat-square&labelColor=21262d&label=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="" /> | `2%` |
-| **Projects** | <img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-a78bfa?style=flat-square&labelColor=21262d&label=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="" /> | `24%` |
-| **Community** | <img src="https://img.shields.io/badge/%E2%96%88-4ade80?style=flat-square&labelColor=21262d&label=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" alt="" /> | `0%` |
-
-<sub>Connect Codeforces or LeetCode to replace this proxy panel with verified contest data.</sub>
+<img src="assets/signal.svg" width="72%" alt="Engineering signal: activity 2%, projects 24%, community 0%" />
 
 <!-- Swap the table above for real cards once you have handles:
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_HANDLE?theme=dark&font=Inter&ext=heatmap" />
