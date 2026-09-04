@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Neon cyber developer portrait">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="34%" r="78%">
+    <stop offset="0%" stop-color="#1b1746"/>
+    <stop offset="55%" stop-color="#0d1024"/>
+    <stop offset="100%" stop-color="#05060f"/>
+  </radialGradient>
+  <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#22d3ee"/>
+    <stop offset="45%" stop-color="#8b5cf6"/>
+    <stop offset="100%" stop-color="#4c1d95"/>
+  </linearGradient>
+  <linearGradient id="visor" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#0ea5e9"/>
+    <stop offset="50%" stop-color="#67e8f9"/>
+    <stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+  <linearGradient id="jacket" x1="0" y1="0" x2="0.4" y2="1">
+    <stop offset="0%" stop-color="#2e2a6b"/>
+    <stop offset="100%" stop-color="#0f1030"/>
+  </linearGradient>
+  <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#3b3a6a"/>
+    <stop offset="100%" stop-color="#211f3f"/>
+  </linearGradient>
+  <linearGradient id="ray" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#22d3ee" stop-opacity=".5"/>
+    <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+    <feGaussianBlur stdDeviation="7"/>
+  </filter>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.2"/>
+  </filter>
+  <clipPath id="frame"><rect x="0" y="0" width="400" height="400" rx="18"/></clipPath>
+</defs>
+
+<g clip-path="url(#frame)">
+  <rect width="400" height="400" fill="url(#bg)"/>
+
+  <!-- perspective grid floor -->
+  <g stroke="#22d3ee" stroke-opacity=".13" stroke-width="1">
+    <path d="M-40 300 H440"/><path d="M-40 328 H440"/><path d="M-40 362 H440"/><path d="M-40 400 H440"/>
+    <path d="M200 288 L20 400"/><path d="M200 288 L110 400"/><path d="M200 288 L200 400"/>
+    <path d="M200 288 L290 400"/><path d="M200 288 L380 400"/>
+  </g>
+
+  <!-- rotating halo rays -->
+  <g transform="translate(200 160)" opacity=".55">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360"
+      dur="26s" repeatCount="indefinite" additive="sum"/>
+    <rect x="-190" y="-4" width="380" height="8" fill="url(#ray)" filter="url(#soft)"/>
+    <rect x="-190" y="-4" width="380" height="8" fill="url(#ray)" filter="url(#soft)" transform="rotate(60)"/>
+    <rect x="-190" y="-4" width="380" height="8" fill="url(#ray)" filter="url(#soft)" transform="rotate(120)"/>
+  </g>
+
+  <!-- backlight bloom -->
+  <circle cx="200" cy="150" r="96" fill="#8b5cf6" opacity=".42" filter="url(#glow)">
+    <animate attributeName="opacity" values=".30;.60;.30" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- floating particles -->
+  <g fill="#67e8f9">
+    <circle cx="72" cy="330" r="2.2"><animate attributeName="cy" values="340;96" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="330" r="1.8"><animate attributeName="cy" values="350;110" dur="9s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="9s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="122" cy="330" r="1.5" fill="#c084fc"><animate attributeName="cy" values="345;130" dur="8s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="8s" begin="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="286" cy="330" r="2.4" fill="#a855f7"><animate attributeName="cy" values="352;150" dur="10s" begin="3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;0" dur="10s" begin="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="188" cy="330" r="1.6"><animate attributeName="cy" values="358;120" dur="11s" begin="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.75;0" dur="11s" begin="5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ─── figure (gently floating) ─── -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0"
+      dur="6s" calcMode="spline" keyTimes="0;0.5;1"
+      keySplines=".42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+
+    <!-- jacket -->
+    <path d="M104 400 L110 300 C120 260 158 236 200 236 C242 236 280 260 290 300 L296 400 Z" fill="url(#jacket)"/>
+    <!-- collar -->
+    <path d="M168 240 L200 292 L232 240 C222 234 210 231 200 231 C190 231 178 234 168 240 Z" fill="#0b0c1e"/>
+    <!-- neon jacket trim: data flowing along the seams -->
+    <g fill="none" stroke="#22d3ee" stroke-width="2.4" stroke-linecap="round">
+      <path d="M168 240 L200 292 L232 240" stroke-dasharray="14 10">
+        <animate attributeName="stroke-dashoffset" values="72;0" dur="2.6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M118 330 C130 300 142 288 158 280" stroke="#a855f7" stroke-dasharray="10 12">
+        <animate attributeName="stroke-dashoffset" values="0;66" dur="3.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M282 330 C270 300 258 288 242 280" stroke="#a855f7" stroke-dasharray="10 12">
+        <animate attributeName="stroke-dashoffset" values="66;0" dur="3.4s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <!-- shoulder plate -->
+    <path d="M262 268 C278 278 288 292 292 310 L272 316 C266 298 258 284 248 276 Z" fill="#1a1a44" stroke="#67e8f9" stroke-opacity=".5" stroke-width="1.4"/>
+
+    <!-- neck -->
+    <rect x="184" y="196" width="32" height="48" rx="10" fill="url(#skin)"/>
+
+    <!-- head -->
+    <path d="M148 122 C148 90 252 90 252 122 L252 168 C252 198 224 216 200 216 C176 216 148 198 148 168 Z" fill="url(#skin)"/>
+
+    <!-- visor -->
+    <g>
+      <rect x="139" y="130" width="122" height="32" rx="15" fill="url(#visor)" filter="url(#soft)" opacity=".55"/>
+      <rect x="141" y="132" width="118" height="28" rx="13" fill="url(#visor)"/>
+      <!-- shine sweep across the visor -->
+      <rect x="141" y="132" width="26" height="28" fill="#ffffff" opacity=".0">
+        <animate attributeName="x" values="141;233;141" dur="5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;.55;0" dur="5s" repeatCount="indefinite"/>
+      </rect>
+      <!-- HUD readout ticks -->
+      <g fill="#04121a" opacity=".65">
+        <rect x="152" y="142" width="12" height="3" rx="1.5"><animate attributeName="width" values="12;26;12" dur="2.2s" repeatCount="indefinite"/></rect>
+        <rect x="152" y="149" width="20" height="3" rx="1.5"><animate attributeName="width" values="20;9;20" dur="1.7s" repeatCount="indefinite"/></rect>
+        <rect x="228" y="145" width="18" height="6" rx="3"><animate attributeName="opacity" values=".2;.9;.2" dur="1.1s" repeatCount="indefinite"/></rect>
+      </g>
+    </g>
+
+    <!-- lower-face definition: rim light, mouth, jaw shadow -->
+    <path d="M148 160 C148 192 172 214 200 216" fill="none" stroke="#67e8f9" stroke-width="2" stroke-opacity=".38" stroke-linecap="round"/>
+    <path d="M252 160 C252 190 230 212 204 216" fill="none" stroke="#c084fc" stroke-width="2" stroke-opacity=".30" stroke-linecap="round"/>
+    <ellipse cx="200" cy="205" rx="30" ry="10" fill="#15142e" opacity=".55"/>
+    <rect x="191" y="186" width="18" height="4" rx="2" fill="#0b0c1e" opacity=".85">
+      <animate attributeName="width" values="18;12;18" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="191;194;191" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="176" cy="176" r="5" fill="#8b5cf6" opacity=".22"/>
+    <circle cx="224" cy="176" r="5" fill="#22d3ee" opacity=".18"/>
+
+    <!-- headphone / temple pods -->
+    <circle cx="144" cy="148" r="11" fill="#12123a" stroke="#67e8f9" stroke-width="1.6"/>
+    <circle cx="256" cy="148" r="11" fill="#12123a" stroke="#c084fc" stroke-width="1.6"/>
+    <circle cx="144" cy="148" r="3.4" fill="#22d3ee"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="256" cy="148" r="3.4" fill="#c084fc"><animate attributeName="opacity" values=".25;1;.25" dur="1.6s" repeatCount="indefinite"/></circle>
+
+    <!-- hair: layered neon swooshes -->
+    <g fill="url(#hair)">
+      <path d="M146 126 C140 78 186 50 230 60 C268 69 278 100 268 126 C256 96 214 78 180 92 C162 100 152 112 146 126 Z"/>
+      <path d="M232 60 C258 46 286 54 296 74 C280 68 262 68 248 76 Z"/>
+      <path d="M152 96 C132 82 118 86 108 100 C124 96 138 98 148 108 Z"/>
+      <path d="M180 62 C176 42 190 26 210 22 C198 36 194 50 198 64 Z"/>
+    </g>
+    <!-- hair rim-light -->
+    <path d="M146 126 C140 78 186 50 230 60" fill="none" stroke="#67e8f9" stroke-width="2.6" stroke-linecap="round" opacity=".8">
+      <animate attributeName="opacity" values=".45;1;.45" dur="3.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- scanline sweep -->
+  <rect x="0" y="0" width="400" height="3" fill="#67e8f9" opacity=".10">
+    <animate attributeName="y" values="-6;400" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0.5" y="0.5" width="399" height="399" rx="18" fill="none" stroke="#334155" stroke-opacity=".55"/>
+</g>
+</svg>

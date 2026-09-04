@@ -1,25 +1,34 @@
+<!-- ═══════════════════════  ANIMATED HEADER  ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,40:4c1d95,75:8b5cf6,100:22d3ee&text=i-saurav-kashyap&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=36&desc=Developer%20building%20useful%20software&descAlign=50&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="i-saurav-kashyap" />
+
 <div align="center">
 
-<!-- ═══════════════════  PROFILE HEADER  ═══════════════════ -->
+<a href="https://github.com/i-saurav-kashyap">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=56&lines=Salesforce+%2B+Full-Stack+Engineer;Apex+%C2%B7+LWC+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Building+and+sharing+work+in+public." alt="Salesforce + Full-Stack Engineer" />
+</a>
 
-<h3 align="left">i-saurav-kashyap</h3>
-
-<!-- CHARACTER STRIP — add 5 square PNGs to assets/ then delete the two comment
-     markers below to show this row. Kept off so the live profile has no broken images.
-<p align="left">
-  <img src="assets/char-1.png" height="120" alt="" />
-  <img src="assets/char-2.png" height="120" alt="" />
-  <img src="assets/char-3.png" height="120" alt="" />
-  <img src="assets/char-4.png" height="120" alt="" />
-  <img src="assets/char-5.png" height="120" alt="" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=i-saurav-kashyap&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://custom-icon-badges.demolab.com/github/followers/i-saurav-kashyap?style=for-the-badge&logo=person-add&logoColor=white&color=8b5cf6&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/OPEN_TO-COLLAB-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Open to collaboration" />
 </p>
--->
 
-<!-- ═══════════════════  STATS  ·  HERO  ═══════════════════ -->
+<!-- ═══════════════════════  THE CREW  ═══════════════════════ -->
+
+<p>
+  <img src="assets/char-1.svg" height="132" alt="" />
+  <img src="assets/char-2.svg" height="132" alt="" />
+  <img src="assets/char-3.svg" height="132" alt="" />
+  <img src="assets/char-4.svg" height="132" alt="" />
+  <img src="assets/char-5.svg" height="132" alt="" />
+</p>
+
+<!-- ═══════════════════════  STATS  ·  HERO  ═══════════════════════ -->
 
 <table>
 <tr>
-<td valign="top" width="54%">
+<td valign="top" width="55%">
 
 #### i-saurav-kashyap's GitHub Stats
 
@@ -33,20 +42,15 @@
 <img src="https://streak-stats.demolab.com/?user=i-saurav-kashyap&hide_border=true&background=0d1117&stroke=21262d&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=58a6ff&dates=8b949e" width="100%" alt="Contributions · current streak · longest streak" />
 
 </td>
-<td valign="top" width="46%">
+<td valign="top" width="45%">
 
-<!-- HERO ART — save your illustration as assets/hero.png then delete the two
-     comment markers below.
-<img src="assets/hero.png" width="100%" alt="" />
--->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-saurav-kashyap&theme=github_dark" width="100%" alt="Profile details" />
+<img src="assets/hero.svg" width="100%" alt="Neon cyber developer portrait" />
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════  IDENTITY  ·  COMMUNITY SIGNAL  ═══════════════════ -->
+<!-- ═══════════════════════  IDENTITY  ·  COMMUNITY SIGNAL  ═══════════════════════ -->
 
 <table>
 <tr>
@@ -75,9 +79,9 @@ Building and sharing work in public.
 
 <sub>Public GitHub data</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22c55e,50:3b82f6,100:22c55e" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════  CONTRIBUTION ACTIVITY  ═══════════════════ -->
+<!-- ═══════════════════════  CONTRIBUTION ACTIVITY  ═══════════════════════ -->
 
 ## Contribution Activity
 
@@ -88,32 +92,45 @@ Building and sharing work in public.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-saurav-kashyap&theme=github_dark" width="46%" alt="Most-committed languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-saurav-kashyap&theme=github_dark" width="46%" alt="Profile stats" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i-saurav-kashyap&theme=github_dark&utcOffset=5.5" width="46%" alt="Productive time" />
+
 <!-- Line-style activity graph, if/when the upstream quota resets:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-saurav-kashyap&days=91&area=true&hide_border=true&bg_color=0d1117&color=c9d1d9&title_color=ffffff&line=c084fc&point=4ade80" />
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22c55e,50:3b82f6,100:22c55e" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════  LANGUAGES · FRAMEWORKS · TOOLS  ═══════════════════ -->
+<!-- ═══════════════════════  LANGUAGES · FRAMEWORKS · TOOLS  ═══════════════════════ -->
 
 ## Languages · Frameworks · Tools
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1c2128?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=0d1117" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML-1c2128?style=for-the-badge&logo=html5&logoColor=e34f26&labelColor=0d1117" alt="HTML" />
-  <img src="https://img.shields.io/badge/Java-1c2128?style=for-the-badge&logo=openjdk&logoColor=5dade2&labelColor=0d1117" alt="Java" />
-  <img src="https://img.shields.io/badge/Apex-1c2128?style=for-the-badge&logo=salesforce&logoColor=00a1e0&labelColor=0d1117" alt="Apex" />
-  <img src="https://img.shields.io/badge/CSS-1c2128?style=for-the-badge&logo=css3&logoColor=1572b6&labelColor=0d1117" alt="CSS" />
-  <img src="https://img.shields.io/badge/Python-1c2128?style=for-the-badge&logo=python&logoColor=ffd43b&labelColor=0d1117" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-1c2128?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=0d1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-1c2128?style=for-the-badge&logo=openjdk&logoColor=5dade2&labelColor=0d1117" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-1c2128?style=for-the-badge&logo=python&logoColor=ffd43b&labelColor=0d1117" alt="Python" />
+  <img src="https://img.shields.io/badge/Apex-1c2128?style=for-the-badge&logo=salesforce&logoColor=00a1e0&labelColor=0d1117" alt="Apex" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML-1c2128?style=for-the-badge&logo=html5&logoColor=e34f26&labelColor=0d1117" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1c2128?style=for-the-badge&logo=css3&logoColor=1572b6&labelColor=0d1117" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-1c2128?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=0d1117" alt="React" />
+  <img src="https://img.shields.io/badge/Spring_Boot-1c2128?style=for-the-badge&logo=springboot&logoColor=6db33f&labelColor=0d1117" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Shell-1c2128?style=for-the-badge&logo=gnubash&logoColor=a78bfa&labelColor=0d1117" alt="Shell" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-1c2128?style=for-the-badge&logo=salesforce&logoColor=00a1e0&labelColor=0d1117" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Git-1c2128?style=for-the-badge&logo=git&logoColor=f05032&labelColor=0d1117" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-1c2128?style=for-the-badge&logo=githubactions&logoColor=2088ff&labelColor=0d1117" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vite-1c2128?style=for-the-badge&logo=vite&logoColor=b73bfe&labelColor=0d1117" alt="Vite" />
+  <img src="https://img.shields.io/badge/VS_Code-1c2128?style=for-the-badge&logo=visualstudiocode&logoColor=007acc&labelColor=0d1117" alt="VS Code" />
 </p>
 
 <sub>TypeScript · HTML · Java · Apex · CSS · Python · JavaScript · Shell</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22c55e,50:3b82f6,100:22c55e" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════  COMPETITIVE PROGRAMMING  ═══════════════════ -->
+<!-- ═══════════════════════  COMPETITIVE PROGRAMMING  ═══════════════════════ -->
 
 ## Competitive Programming
 
@@ -132,9 +149,9 @@ Building and sharing work in public.
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_HANDLE&theme=dark" />
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22c55e,50:3b82f6,100:22c55e" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════  FEATURED PROJECTS  ═══════════════════ -->
+<!-- ═══════════════════════  FEATURED PROJECTS  ═══════════════════════ -->
 
 ## Featured Projects
 
@@ -189,14 +206,22 @@ Single self-contained HTML file — no build step, no internet needed except the
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22c55e,50:3b82f6,100:22c55e" width="100%" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════  FOOTER  ═══════════════════ -->
+<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 
 <a href="https://github.com/i-saurav-kashyap">
   <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/saurav21/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" />
+</a>
+<a href="mailto:urskashyap21@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" />
 </a>
 
 <sub>Public GitHub data · profile signal</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:22d3ee,50:8b5cf6,100:0d1117" width="100%" alt="" />

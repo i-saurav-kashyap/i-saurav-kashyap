@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 12" width="1000" height="12" role="img" aria-label="">
+<defs>
+  <linearGradient id="d" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#22c55e"/><stop offset="35%" stop-color="#3b82f6"/>
+    <stop offset="65%" stop-color="#a855f7"/><stop offset="100%" stop-color="#22c55e"/>
+  </linearGradient>
+  <filter id="dg" x="-10%" y="-400%" width="120%" height="900%"><feGaussianBlur stdDeviation="2"/></filter>
+</defs>
+<rect x="8" y="5" width="984" height="2" fill="url(#d)" opacity=".5" filter="url(#dg)"/>
+<rect x="8" y="5.2" width="984" height="1.6" fill="url(#d)"/>
+<polygon points="0,6 9,1.5 9,10.5" fill="#22c55e"/><polygon points="1000,6 991,1.5 991,10.5" fill="#22c55e"/>
+<circle cy="6" r="3.4" fill="#e0f2fe">
+  <animate attributeName="cx" values="12;988;12" dur="9s" calcMode="spline" keyTimes="0;0.5;1" keySplines=".42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".35;1;.35" dur="4.5s" repeatCount="indefinite"/>
+</circle>
+</svg>
