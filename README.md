@@ -24,6 +24,12 @@
   <img src="assets/char-5.svg" height="132" alt="" />
 </p>
 
+<!-- ═══════════════════════  TERMINAL INTRO  ═══════════════════════ -->
+
+<img src="assets/terminal.svg" width="88%" alt="Terminal: whoami, stack.json and mission" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <!-- ═══════════════════════  STATS  ·  HERO  ═══════════════════════ -->
 
 <table>
@@ -72,33 +78,40 @@ Building and sharing work in public.
 </tr>
 </table>
 
-<sub>Public GitHub data</sub>
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════  CONTRIBUTION ACTIVITY  ═══════════════════════ -->
 
 ## Contribution Activity
 
-<sub><b>i-saurav-kashyap's Contribution Graph</b> — watch the snake eat a year of commits</sub>
+<sub>A year of commits, rendered three ways — regenerated automatically by GitHub Actions</sub>
 
-<!-- Regenerated every 12h by .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/i-saurav-kashyap/i-saurav-kashyap/output/snake.gif" width="94%" alt="Snake eating my contribution graph" />
+<!-- 3D isometric calendar · .github/workflows/3d-contrib.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="94%" alt="3D contribution calendar" />
+</picture>
+
+<!-- Contribution snake · .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-saurav-kashyap/i-saurav-kashyap/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-saurav-kashyap/i-saurav-kashyap/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/i-saurav-kashyap/i-saurav-kashyap/output/snake-dark.svg" width="94%" alt="Snake eating my contribution graph" />
+</picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-saurav-kashyap&theme=github_dark" width="46%" alt="Most-committed languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-saurav-kashyap&theme=github_dark" width="46%" alt="Profile stats" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i-saurav-kashyap&theme=github_dark&utcOffset=5.5" width="46%" alt="Productive time" />
 
-<!-- Line-style activity graph, if/when the upstream quota resets:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-saurav-kashyap&days=91&area=true&hide_border=true&bg_color=0d1117&color=c9d1d9&title_color=ffffff&line=c084fc&point=4ade80" />
--->
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════  LANGUAGES · FRAMEWORKS · TOOLS  ═══════════════════════ -->
 
 ## Languages · Frameworks · Tools
+
+<img src="assets/stack.svg" width="72%" alt="Orbiting tech stack" />
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1c2128?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=0d1117" alt="TypeScript" />
@@ -121,8 +134,6 @@ Building and sharing work in public.
   <img src="https://img.shields.io/badge/Vite-1c2128?style=for-the-badge&logo=vite&logoColor=b73bfe&labelColor=0d1117" alt="Vite" />
   <img src="https://img.shields.io/badge/VS_Code-1c2128?style=for-the-badge&logo=visualstudiocode&logoColor=007acc&labelColor=0d1117" alt="VS Code" />
 </p>
-
-<sub>TypeScript · HTML · Java · Apex · CSS · Python · JavaScript · Shell</sub>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -153,70 +164,67 @@ Building and sharing work in public.
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-### salesforce-package
-
-A featured build from this profile.
-
-`HTML` · `0 stars`
-
-**[VIEW CODE →](https://github.com/i-saurav-kashyap/salesforce-package)**
-
+<td width="50%">
+  <a href="https://github.com/i-saurav-kashyap/salesforce-package">
+    <img src="assets/card-salesforce-package.svg" width="100%" alt="salesforce-package" />
+  </a>
 </td>
-<td valign="top" width="50%">
-
-### waybill-automation
-
-Safexpress waybill automation POC — Spring Boot backend with OAuth2 token management + React/Vite frontend
-
-`Java` · `0 stars`
-
-**[VIEW CODE →](https://github.com/i-saurav-kashyap/waybill-automation)**
-
+<td width="50%">
+  <a href="https://github.com/i-saurav-kashyap/waybill-automation">
+    <img src="assets/card-waybill-automation.svg" width="100%" alt="waybill-automation" />
+  </a>
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
-
-### Problem-Solving-Ability-Upgrade
-
-A featured build from this profile.
-
-`Open source` · `0 stars`
-
-**[VIEW CODE →](https://github.com/i-saurav-kashyap/Problem-Solving-Ability-Upgrade)**
-
+<td width="50%">
+  <a href="https://github.com/i-saurav-kashyap/Problem-Solving-Ability-Upgrade">
+    <img src="assets/card-problem-solving.svg" width="100%" alt="Problem-Solving-Ability-Upgrade" />
+  </a>
 </td>
-<td valign="top" width="50%">
-
-### salesforce-target-companies
-
-Single self-contained HTML file — no build step, no internet needed except the web fonts. Open it in any browser.
-
-`HTML` · `0 stars`
-
-**[VIEW CODE →](https://github.com/i-saurav-kashyap/salesforce-target-companies)**
-
+<td width="50%">
+  <a href="https://github.com/i-saurav-kashyap/salesforce-target-companies">
+    <img src="assets/card-target-companies.svg" width="100%" alt="salesforce-target-companies" />
+  </a>
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>All public repositories</b></summary>
+<br>
+
+| Repository | Language | What it is |
+|:--|:--|:--|
+| [salesforce-package](https://github.com/i-saurav-kashyap/salesforce-package) | HTML | Salesforce package scaffolding and deploy tooling |
+| [waybill-automation](https://github.com/i-saurav-kashyap/waybill-automation) | Java | Spring Boot + OAuth2 waybill automation POC with a React/Vite front end |
+| [salesforce-target-companies](https://github.com/i-saurav-kashyap/salesforce-target-companies) | HTML | Single self-contained HTML file, no build step |
+| [Problem-Solving-Ability-Upgrade](https://github.com/i-saurav-kashyap/Problem-Solving-Ability-Upgrade) | — | Structured DSA practice log |
+| [RepoMind-AI](https://github.com/i-saurav-kashyap/RepoMind-AI) | TypeScript | AI-assisted repository exploration |
+| [Personal_Learning_Beacon](https://github.com/i-saurav-kashyap/Personal_Learning_Beacon) | TypeScript | Personal learning tracker |
+| [saurav-kashyap](https://github.com/i-saurav-kashyap/saurav-kashyap) | HTML | Engineering portfolio — "Control Plane" design direction |
+| [Salesforce_Learning](https://github.com/i-saurav-kashyap/Salesforce_Learning) | — | Salesforce study notes and samples |
+
+</details>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 
-<a href="https://github.com/i-saurav-kashyap">
-  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/saurav21/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" />
-</a>
-<a href="mailto:urskashyap21@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" />
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
 
-<sub>Public GitHub data · profile signal</sub>
+<p>
+  <a href="https://github.com/i-saurav-kashyap">
+    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/saurav21/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" />
+  </a>
+  <a href="mailto:urskashyap21@gmail.com">
+    <img src="https://img.shields.io/badge/urskashyap21@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="urskashyap21@gmail.com" />
+  </a>
+</p>
+
+<sub>Public GitHub data · profile signal · built with hand-authored animated SVG</sub>
 
 </div>
 
