@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380" role="img" aria-label="Terminal session: whoami, stack and mission">
+<defs>
+<linearGradient id="tbg" x1="0" y1="0" x2="0.6" y2="1"><stop offset="0%" stop-color="#12172b"/><stop offset="100%" stop-color="#0a0d18"/></linearGradient>
+<linearGradient id="tbar" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#1d2440"/><stop offset="100%" stop-color="#141a2e"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#22d3ee"/></linearGradient>
+<filter id="tglow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3"/></filter>
+<clipPath id="clip0"><rect x="26.0" y="77.0" height="23.0" width="0"><animate attributeName="width" values="0;0;106.8;106.8;0" keyTimes="0;0.0344;0.0504;0.965;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip1"><rect x="26.0" y="103.0" height="23.0" width="0"><animate attributeName="width" values="0;0;443.2;443.2;0" keyTimes="0;0.1062;0.1802;0.965;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip2"><rect x="26.0" y="129.0" height="23.0" width="0"><animate attributeName="width" values="0;0;199.6;199.6;0" keyTimes="0;0.1781;0.2101;0.965;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip3"><rect x="26.0" y="155.0" height="23.0" width="0"><animate attributeName="width" values="0;0;454.8;454.8;0" keyTimes="0;0.2500;0.3260;0.965;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip4"><rect x="26.0" y="181.0" height="23.0" width="0"><animate attributeName="width" values="0;0;443.2;443.2;0" keyTimes="0;0.3219;0.3959;0.965;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip5"><rect x="26.0" y="207.0" height="23.0" width="0"><animate attributeName="width" values="0;0;443.2;443.2;0" keyTimes="0;0.3937;0.4677;0.965;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip6"><rect x="26.0" y="233.0" height="23.0" width="0"><animate attributeName="width" values="0;0;188.0;188.0;0" keyTimes="0;0.4656;0.4956;0.965;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip7"><rect x="26.0" y="259.0" height="23.0" width="0"><animate attributeName="width" values="0;0;443.2;443.2;0" keyTimes="0;0.5375;0.6115;0.965;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip8"><rect x="26.0" y="285.0" height="23.0" width="0"><animate attributeName="width" values="0;0;37.2;37.2;0" keyTimes="0;0.6094;0.6206;0.965;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect x="2" y="2" width="756" height="376" rx="14" fill="url(#edge)" opacity=".55" filter="url(#tglow)"/>
+<rect x="3" y="3" width="754" height="374" rx="13" fill="url(#tbg)" stroke="url(#edge)" stroke-width="1.4"/>
+<rect x="3" y="3" width="754" height="374" rx="13" fill="none" stroke="#67e8f9" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="140 2100" opacity=".9"><animate attributeName="stroke-dashoffset" values="2240;0" dur="7s" repeatCount="indefinite"/></rect>
+<path d="M3 16 A13 13 0 0 1 16 3 H741 A13 13 0 0 1 757 16 V46 H3 Z" fill="url(#tbar)"/>
+<circle cx="26" cy="25" r="6" fill="#ff5f57"/><circle cx="47" cy="25" r="6" fill="#febc2e"/><circle cx="68" cy="25" r="6" fill="#28c840"/>
+<text x="380.0" y="30" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8b949e">saurav@github: ~/profile</text>
+<line x1="3" y1="46" x2="757" y2="46" stroke="#2a3352"/>
+<text x="26.0" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7893">— zsh — 80×24 —</text>
+<g clip-path="url(#clip0)"><text x="26.0" y="92.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.0" xml:space="preserve">
+<tspan fill="#22d3ee" font-weight="700">$ </tspan>
+<tspan fill="#e6edf3">whoami</tspan>
+</text></g>
+<g clip-path="url(#clip1)"><text x="26.0" y="118.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.0" xml:space="preserve">
+<tspan fill="#a855f7">Saurav Kashyap — Software Engineer II</tspan>
+</text></g>
+<g clip-path="url(#clip2)"><text x="26.0" y="144.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.0" xml:space="preserve">
+<tspan fill="#22d3ee" font-weight="700">$ </tspan>
+<tspan fill="#e6edf3">cat stack.json</tspan>
+</text></g>
+<g clip-path="url(#clip3)"><text x="26.0" y="170.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.0" xml:space="preserve">
+<tspan fill="#7ee787">{ &quot;cloud&quot;: &quot;Salesforce&quot;, &quot;apex&quot;: true,</tspan>
+</text></g>
+<g clip-path="url(#clip4)"><text x="26.0" y="196.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.0" xml:space="preserve">
+<tspan fill="#7ee787">  &quot;api&quot;: &quot;Java · Spring Boot · Node&quot;,</tspan>
+</text></g>
+<g clip-path="url(#clip5)"><text x="26.0" y="222.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.0" xml:space="preserve">
+<tspan fill="#7ee787">  &quot;web&quot;: &quot;TypeScript · React · LWC&quot; }</tspan>
+</text></g>
+<g clip-path="url(#clip6)"><text x="26.0" y="248.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.0" xml:space="preserve">
+<tspan fill="#22d3ee" font-weight="700">$ </tspan>
+<tspan fill="#e6edf3">echo $MISSION</tspan>
+</text></g>
+<g clip-path="url(#clip7)"><text x="26.0" y="274.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.0" xml:space="preserve">
+<tspan fill="#f0c9a8">ship field-asset software crews enjoy</tspan>
+</text></g>
+<g clip-path="url(#clip8)"><text x="26.0" y="300.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15.0" xml:space="preserve">
+<tspan fill="#22d3ee" font-weight="700">$ </tspan>
+</text></g>
+<rect x="48.0" y="287.0" width="9.0" height="17.0" fill="#22d3ee" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;1" keyTimes="0;0.6094;0.72;0.79;0.86;0.93;1" dur="16.0s" repeatCount="indefinite"/></rect>
+</svg>

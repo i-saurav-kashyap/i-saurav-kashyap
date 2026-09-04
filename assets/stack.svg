@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 360" width="620" height="360" role="img" aria-label="Orbiting tech stack: Apex, LWC, TypeScript, React, Java, Spring, Python, Node, Shell, CI/CD">
+<defs>
+<radialGradient id="core" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#c4b5fd"/><stop offset="60%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#4c1d95"/></radialGradient>
+<radialGradient id="vign" cx="50%" cy="50%" r="62%"><stop offset="0%" stop-color="#151b2e"/><stop offset="100%" stop-color="#080b14"/></radialGradient>
+<filter id="sg" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="620" height="360" rx="14" fill="url(#vign)"/>
+<circle cx="58" cy="44" r="1.2" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="4.1s" repeatCount="indefinite"/></circle>
+<circle cx="160" cy="300" r="1.5" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="5.3s" repeatCount="indefinite"/></circle>
+<circle cx="540" cy="70" r="1.1" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="470" cy="310" r="1.6" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="6.2s" repeatCount="indefinite"/></circle>
+<circle cx="96" cy="206" r="1.0" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="4.8s" repeatCount="indefinite"/></circle>
+<circle cx="566" cy="196" r="1.3" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="5.9s" repeatCount="indefinite"/></circle>
+<circle cx="300" cy="26" r="1.2" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="3.9s" repeatCount="indefinite"/></circle>
+<circle cx="300" cy="334" r="1.1" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="5.1s" repeatCount="indefinite"/></circle>
+<circle cx="30" cy="140" r="1.0" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="6.6s" repeatCount="indefinite"/></circle>
+<circle cx="590" cy="270" r="1.2" fill="#c9d1d9" opacity=".5"><animate attributeName="opacity" values=".15;.75;.15" dur="4.4s" repeatCount="indefinite"/></circle>
+<circle cx="310" cy="180" r="66" fill="none" stroke="#22d3ee" stroke-opacity=".26" stroke-width="1" stroke-dasharray="5 9"><animateTransform attributeName="transform" type="rotate" from="0 310 180" to="360 310 180" dur="41.6s" repeatCount="indefinite"/></circle>
+<g><animateTransform attributeName="transform" type="rotate" from="0 310 180" to="360 310 180" dur="26s" repeatCount="indefinite"/>
+<g transform="translate(376.0 180.0)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="26s" repeatCount="indefinite"/>
+<rect x="-26.8" y="-13.0" width="53.6" height="26" rx="13.0" fill="#0d1424" stroke="#22d3ee" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#22d3ee">Apex</text>
+</g></g>
+<g transform="translate(277.0 237.2)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="26s" repeatCount="indefinite"/>
+<rect x="-22.9" y="-13.0" width="45.7" height="26" rx="13.0" fill="#0d1424" stroke="#22d3ee" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#22d3ee">LWC</text>
+</g></g>
+<g transform="translate(277.0 122.8)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="26s" repeatCount="indefinite"/>
+<rect x="-26.8" y="-13.0" width="53.6" height="26" rx="13.0" fill="#0d1424" stroke="#22d3ee" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#22d3ee">SOQL</text>
+</g></g>
+</g>
+<circle cx="310" cy="180" r="112" fill="none" stroke="#a855f7" stroke-opacity=".26" stroke-width="1" stroke-dasharray="5 9"><animateTransform attributeName="transform" type="rotate" from="0 310 180" to="-360 310 180" dur="60.800000000000004s" repeatCount="indefinite"/></circle>
+<g><animateTransform attributeName="transform" type="rotate" from="0 310 180" to="-360 310 180" dur="38s" repeatCount="indefinite"/>
+<g transform="translate(422.0 180.0)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="38s" repeatCount="indefinite"/>
+<rect x="-50.5" y="-13.0" width="101.0" height="26" rx="13.0" fill="#0d1424" stroke="#a855f7" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a855f7">TypeScript</text>
+</g></g>
+<g transform="translate(310.0 292.0)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="38s" repeatCount="indefinite"/>
+<rect x="-30.8" y="-13.0" width="61.5" height="26" rx="13.0" fill="#0d1424" stroke="#a855f7" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a855f7">React</text>
+</g></g>
+<g transform="translate(198.0 180.0)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="38s" repeatCount="indefinite"/>
+<rect x="-26.8" y="-13.0" width="53.6" height="26" rx="13.0" fill="#0d1424" stroke="#a855f7" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a855f7">Java</text>
+</g></g>
+<g transform="translate(310.0 68.0)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="38s" repeatCount="indefinite"/>
+<rect x="-34.7" y="-13.0" width="69.4" height="26" rx="13.0" fill="#0d1424" stroke="#a855f7" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#a855f7">Spring</text>
+</g></g>
+</g>
+<circle cx="310" cy="180" r="158" fill="none" stroke="#7ee787" stroke-opacity=".26" stroke-width="1" stroke-dasharray="5 9"><animateTransform attributeName="transform" type="rotate" from="0 310 180" to="360 310 180" dur="83.2s" repeatCount="indefinite"/></circle>
+<g><animateTransform attributeName="transform" type="rotate" from="0 310 180" to="360 310 180" dur="52s" repeatCount="indefinite"/>
+<g transform="translate(468.0 180.0)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="52s" repeatCount="indefinite"/>
+<rect x="-34.7" y="-13.0" width="69.4" height="26" rx="13.0" fill="#0d1424" stroke="#7ee787" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7ee787">Python</text>
+</g></g>
+<g transform="translate(358.8 330.3)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="52s" repeatCount="indefinite"/>
+<rect x="-26.8" y="-13.0" width="53.6" height="26" rx="13.0" fill="#0d1424" stroke="#7ee787" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7ee787">Node</text>
+</g></g>
+<g transform="translate(182.2 272.9)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="52s" repeatCount="indefinite"/>
+<rect x="-30.8" y="-13.0" width="61.5" height="26" rx="13.0" fill="#0d1424" stroke="#7ee787" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7ee787">Shell</text>
+</g></g>
+<g transform="translate(182.2 87.1)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="52s" repeatCount="indefinite"/>
+<rect x="-22.9" y="-13.0" width="45.7" height="26" rx="13.0" fill="#0d1424" stroke="#7ee787" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7ee787">Git</text>
+</g></g>
+<g transform="translate(358.8 29.7)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="52s" repeatCount="indefinite"/>
+<rect x="-30.8" y="-13.0" width="61.5" height="26" rx="13.0" fill="#0d1424" stroke="#7ee787" stroke-width="1.3" stroke-opacity=".85"/>
+<text x="0" y="4.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#7ee787">CI/CD</text>
+</g></g>
+</g>
+<circle cx="310" cy="180" r="40" fill="#8b5cf6" opacity=".45" filter="url(#sg)"><animate attributeName="opacity" values=".25;.6;.25" dur="3.8s" repeatCount="indefinite"/></circle>
+<circle cx="310" cy="180" r="30" fill="url(#core)"/>
+<text x="310" y="186" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" font-weight="700" fill="#ffffff">SK</text>
+<circle cx="310" cy="180" r="30" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".7"><animate attributeName="r" values="30;44;30" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="3.8s" repeatCount="indefinite"/></circle>
+</svg>
