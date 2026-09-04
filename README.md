@@ -32,12 +32,7 @@
 
 #### i-saurav-kashyap's GitHub Stats
 
-| | |
-|:--|--:|
-| Contributions | **30** |
-| Repositories | **8** |
-| Stars | **0** |
-| Followers | **0** |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-saurav-kashyap&theme=github_dark" width="100%" alt="Contributions, public repos and a year of activity" />
 
 <img src="https://streak-stats.demolab.com/?user=i-saurav-kashyap&hide_border=true&background=0d1117&stroke=21262d&ring=a78bfa&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=58a6ff&dates=8b949e" width="100%" alt="Contributions · current streak · longest streak" />
 
@@ -85,12 +80,10 @@ Building and sharing work in public.
 
 ## Contribution Activity
 
-<sub><b>i-saurav-kashyap's Contribution Graph</b> · 30 contributions in the last year</sub>
+<sub><b>i-saurav-kashyap's Contribution Graph</b> — watch the snake eat a year of commits</sub>
 
-<img src="https://ghchart.rshah.org/a78bfa/i-saurav-kashyap" width="92%" alt="Contribution heatmap" />
-
-<!-- Contribution snake — regenerated every 12h by .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/i-saurav-kashyap/i-saurav-kashyap/output/snake.gif" width="92%" alt="Snake eating my contribution graph" />
+<!-- Regenerated every 12h by .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/i-saurav-kashyap/i-saurav-kashyap/output/snake.gif" width="94%" alt="Snake eating my contribution graph" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-saurav-kashyap&theme=github_dark" width="46%" alt="Most-committed languages" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-saurav-kashyap&theme=github_dark" width="46%" alt="Profile stats" />
